@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 97cf0699dac4f194b9ffef178d7a4602
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Waitfood: {fileID: 2100000, guid: c1cbfa000aafb4a45a357aee29052cfc, type: 2}
+  - Eating: {fileID: 2100000, guid: 983d25e3cd40d784799017a5d1503985, type: 2}
+  - WaitReturnTray: {fileID: 2100000, guid: 57463907f6714c6498ddceaeb8746610, type: 2}
+  - Empty: {fileID: 2100000, guid: 88239e5a9bce4224ba8c2aaa7f65f7c7, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
